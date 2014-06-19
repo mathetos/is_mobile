@@ -3,7 +3,7 @@
 	Plugin Name: Is Mobile Shortcode
 	Plugin URI: http://mattcromwell.com/is-mobile-shortcode
 	Description: A simple shortcode to swap content in your pages/posts if the user is on a mobile device.
-	Author: webdevmattcrom
+	Author: webdevmattcrom, steveush
 	Version: 0.9
 	Author URI: http://profiles.wordpress.org/webdevmattcrom/
 	Text Domain: ismobile
